@@ -1,0 +1,7 @@
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\bin\Debug\Exercises56.exe.config
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\bin\Debug\Exercises56.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\bin\Debug\Exercises56.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\obj\Debug\Exercises56.csprojAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\obj\Debug\Exercises56.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\obj\Debug\Exercises56.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\Exercises56\obj\Debug\Exercises56.pdb

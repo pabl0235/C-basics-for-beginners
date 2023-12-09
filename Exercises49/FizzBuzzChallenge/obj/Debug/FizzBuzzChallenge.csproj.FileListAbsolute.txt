@@ -1,0 +1,7 @@
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.exe.config
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.csprojAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.pdb

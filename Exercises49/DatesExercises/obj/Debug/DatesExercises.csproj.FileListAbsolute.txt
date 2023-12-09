@@ -1,0 +1,7 @@
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\bin\Debug\DatesExercises.exe.config
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\bin\Debug\DatesExercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\bin\Debug\DatesExercises.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\obj\Debug\DatesExercises.csprojAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\obj\Debug\DatesExercises.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\obj\Debug\DatesExercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# basics for beginners\Exercises49\DatesExercises\obj\Debug\DatesExercises.pdb
